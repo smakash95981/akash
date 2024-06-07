@@ -1,6 +1,6 @@
 # akash
 
-![Header] (https://raw.githubusercontent.com/smakash95981/photo/main/GettyImages-1390013998-e1656427645552.webp)
+![Header](https://raw.githubusercontent.com/smakash95981/photo/main/GetttyImages-1390013998-e16564276455552.webp)
 
 ### Hi there, nice to see you. I'm Aiden Akash 👋
 
