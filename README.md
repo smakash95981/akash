@@ -1,6 +1,6 @@
 # akash
 
-![Header] (https://www.forbes.com/sites/forbestechcouncil/2020/05/28/the-future-of-tech-requires-humans/?sh=71eaebd431bc)
+![Header] (https://raw.githubusercontent.com/smakash95981/photo/main/GettyImages-1390013998-e1656427645552.webp)
 
 ### Hi there, nice to see you. I'm Aiden Akash 👋
 
