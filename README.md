@@ -1,6 +1,6 @@
 # akash
 
-![Header] (https://example.com/your-image-url)
+![Header] (https://www.forbes.com/sites/forbestechcouncil/2020/05/28/the-future-of-tech-requires-humans/?sh=71eaebd431bc)
 
 ### Hi there, nice to see you. I'm Aiden Akash 👋
 
